@@ -71,6 +71,8 @@ app.delete("/",(req, res) =>{
 app.listen(3000 , ()=>{
     console.log ("listening")
 }) 
-
+function hellogit(){
+    console.log("hello git")
+}
 
 
